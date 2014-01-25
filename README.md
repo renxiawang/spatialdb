@@ -1,4 +1,4 @@
-CSCI 585 Course Project - Spatial Database Application
+Database Systems Course Project - Spatial Database Application
 =========
 
 An application that queries a spatial database with Graphical Query Language. The application allows the users to select spatial attributes for spatial queries (e.g. selection from a map).
